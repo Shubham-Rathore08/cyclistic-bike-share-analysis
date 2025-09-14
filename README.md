@@ -11,4 +11,4 @@ Cyclistic, a fictional bike-share company in Chicago, wants to increase profitab
 - Tableau Dashboard shows:
     - 
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](dashboard/dashboard.png)
