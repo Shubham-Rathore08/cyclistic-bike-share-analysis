@@ -9,5 +9,10 @@ Cyclistic, a fictional bike-share company in Chicago, wants to increase profitab
 
 ## Dashboard
 - Tableau Dashboard shows:
-    - 
+    - Types of Customers
+    - Prefered Biketype
+    - Day-wise & Month-wise Usage
+    - Average Ridetime Day-wise
+    - Usage Peak-hour
 
+![Dashboard Screenshot](dashboard/dashboard.png)
