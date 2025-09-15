@@ -16,7 +16,7 @@ Cyclistic, a fictional bike-share company in Chicago, wants to increase profitab
 
 - **SQL (conceptual exploration & practice):**
     - Wrote sample queries to understand trip counts, date ranges, and summary statistics.
-    - Practiced filtering and aggregating data (e.g., COUNT, AVG, GROUP BY ride type and weekday).
+    - Practiced filtering and aggregating data (e.g., `COUNT`, `AVG`, `GROUP BY` ride type and weekday).
     - These queries helped validate that the combined dataset in Excel matched expectations.
 - Combined all 12 months into a single master CSV file for further analysis.
 - Used the course-provided smaller dataset in R for reproducibility.
